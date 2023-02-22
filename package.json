@@ -1,0 +1,24 @@
+{
+  "name": "mercado-liebre-22-02",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon /app.js",
+    "start": "node /app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArielCesari/MercadoLiebre.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ArielCesari/MercadoLiebre/issues"
+  },
+  "homepage": "https://github.com/ArielCesari/MercadoLiebre#readme",
+  "description": ""
+}
